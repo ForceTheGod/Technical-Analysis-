@@ -36,4 +36,4 @@
 2. TA - Macro hybrids
 3. Statistical arbitrage trading
 
-> Author : Forcethegod
+> Author : ForceTheGod
