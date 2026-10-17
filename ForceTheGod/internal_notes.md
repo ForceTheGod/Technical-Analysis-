@@ -10,3 +10,7 @@
 ### Awesome oscillator : 
 
 Performs well with S & P 500, should do out of sample testing when combined with other strategies to evaluate it. One possible reason is that since that it's trend following, and the market has been in a steady bull run, awesome oscillator perfomed so well over the past years, might not be profitable during trend reversals. 
+
+### ADX : 
+
+State based ADX indicator with entry above 25 and exits when index falls below 20, performs very well with S and P 500 better than it's crossover strategy counterpart. Worth investigating, to change entry index values and pairing it up with other indicators.
