@@ -9,7 +9,12 @@
 3. Bollinger Bands
 4. OBV
 5. Awesome Oscillator
-6. Pair trading and mean reversions
+6. Stochastic Oscillator
+7. Dual Thrust
+8. TSI
+9. Donchian Channels
+10. ADX
+11. Pair trading and mean reversions
 
 ### Current development : 
 
