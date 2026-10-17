@@ -14,3 +14,7 @@ Performs well with S & P 500, should do out of sample testing when combined with
 ### ADX : 
 
 State based ADX indicator with entry above 25 and exits when index falls below 20, performs very well with S and P 500 better than it's crossover strategy counterpart. Worth investigating, to change entry index values and pairing it up with other indicators.
+
+### Exit conditions : 
+
+While trying out strategy combinations, there is a tradeoff between or conditions(very aggressive as it closes the position even if one condition is met) & and conditions (very conservative as it needs to meet all the conditions to close position). Try out both ways and use the strategy that provides the best metrics overall.
