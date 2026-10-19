@@ -18,3 +18,7 @@ State based ADX indicator with entry above 25 and exits when index falls below 2
 ### Exit conditions : 
 
 While trying out strategy combinations, there is a tradeoff between or conditions(very aggressive as it closes the position even if one condition is met) & and conditions (very conservative as it needs to meet all the conditions to close position). Try out both ways and use the strategy that provides the best metrics overall.
+
+### Pairs trading : 
+
+The current pairs trading parameters across all pairs are overfitted, slightly changing any parameters leads to massive swings in P and L. Have to find better strategies and pairs using cointegration.
